@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="daemonmanager">
+    <CLASSES>
+      <root url="jar://$MPJ_HOME$/lib/daemonmanager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

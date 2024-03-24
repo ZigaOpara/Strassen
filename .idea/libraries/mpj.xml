@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mpj">
+    <CLASSES>
+      <root url="file://C:/mpj/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/mpj/src" />
+    </SOURCES>
+    <jarDirectory url="file://C:/mpj/lib" recursive="false" />
+  </library>
+</component>
